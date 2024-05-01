@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pico\\Desktop\\curso\\Variaveis\\Conceito\\ConceitoVariavel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF27030-351C-46FA-8F87-481A5EF58A3C}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\Pico\\Desktop\\curso\\Variaveis\\Conceito\\ConceitoVariavel\\ConsoleApplication1\\Variaveis.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CF27030-351C-46FA-8F87-481A5EF58A3C}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\Variaveis.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Variaveis.cpp",
+              "DocumentMoniker": "C:\\Users\\Pico\\Desktop\\curso\\Variaveis\\Conceito\\ConceitoVariavel\\ConsoleApplication1\\Variaveis.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\Variaveis.cpp",
+              "ToolTip": "C:\\Users\\Pico\\Desktop\\curso\\Variaveis\\Conceito\\ConceitoVariavel\\ConsoleApplication1\\Variaveis.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\Variaveis.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-18T22:58:53.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
