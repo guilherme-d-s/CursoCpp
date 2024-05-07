@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pico\\Desktop\\curso\\Variaveis\\Conceito\\ExampleChar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA17C561-AD1C-4F2F-9ECA-1A35A45B79B6}|ExampleChar\\ExampleChar.vcxproj|C:\\Users\\Pico\\Desktop\\curso\\Variaveis\\Conceito\\ExampleChar\\ExampleChar\\Char.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA17C561-AD1C-4F2F-9ECA-1A35A45B79B6}|ExampleChar\\ExampleChar.vcxproj|solutionrelative:ExampleChar\\Char.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Char.cpp",
+              "DocumentMoniker": "C:\\Users\\Pico\\Desktop\\curso\\Variaveis\\Conceito\\ExampleChar\\ExampleChar\\Char.cpp",
+              "RelativeDocumentMoniker": "ExampleChar\\Char.cpp",
+              "ToolTip": "C:\\Users\\Pico\\Desktop\\curso\\Variaveis\\Conceito\\ExampleChar\\ExampleChar\\Char.cpp",
+              "RelativeToolTip": "ExampleChar\\Char.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-07T23:14:29.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
