@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pico\\Desktop\\curso\\Variaveis\\Entrada de Dados\\Ex Entrada de dados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6236C09-C7E0-471F-8CF6-FF64151A178E}|Ex Entrada de dados\\Ex Entrada de dados.vcxproj|C:\\Users\\Pico\\Desktop\\curso\\Variaveis\\Entrada de Dados\\Ex Entrada de dados\\Ex Entrada de dados\\Ex Entrada de dados.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6236C09-C7E0-471F-8CF6-FF64151A178E}|Ex Entrada de dados\\Ex Entrada de dados.vcxproj|solutionrelative:Ex Entrada de dados\\Ex Entrada de dados.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ex Entrada de dados.cpp",
+              "DocumentMoniker": "C:\\Users\\Pico\\Desktop\\curso\\Variaveis\\Entrada de Dados\\Ex Entrada de dados\\Ex Entrada de dados\\Ex Entrada de dados.cpp",
+              "RelativeDocumentMoniker": "Ex Entrada de dados\\Ex Entrada de dados.cpp",
+              "ToolTip": "C:\\Users\\Pico\\Desktop\\curso\\Variaveis\\Entrada de Dados\\Ex Entrada de dados\\Ex Entrada de dados\\Ex Entrada de dados.cpp",
+              "RelativeToolTip": "Ex Entrada de dados\\Ex Entrada de dados.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-23T22:25:32.453Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
