@@ -1,0 +1,4 @@
+﻿  Especificadores.cpp
+C:\Users\Pico\Desktop\curso\Operadores Logicos\Especificadores\Especificadores\Especificadores.cpp(9,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Pico\Desktop\curso\Operadores Logicos\Especificadores\Especificadores\Especificadores.cpp(13,14): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 4 has type 'std::string'
+  Especificadores.vcxproj -> C:\Users\Pico\Desktop\curso\Operadores Logicos\Especificadores\x64\Debug\Especificadores.exe
