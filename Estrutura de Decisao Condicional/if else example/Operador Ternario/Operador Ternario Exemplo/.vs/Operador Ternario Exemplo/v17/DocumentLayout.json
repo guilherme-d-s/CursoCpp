@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pico\\Desktop\\curso\\Estrutura de Decisao Condicional\\if else example\\Operador Ternario\\Operador Ternario Exemplo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5228A30A-F1F3-48DD-8E3A-7BDA87B79EB7}|Operador Ternario Exemplo\\Operador Ternario Exemplo.vcxproj|C:\\Users\\Pico\\Desktop\\curso\\Estrutura de Decisao Condicional\\if else example\\Operador Ternario\\Operador Ternario Exemplo\\Operador Ternario Exemplo\\Ternario.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5228A30A-F1F3-48DD-8E3A-7BDA87B79EB7}|Operador Ternario Exemplo\\Operador Ternario Exemplo.vcxproj|solutionrelative:Operador Ternario Exemplo\\Ternario.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ternario.cpp",
+              "DocumentMoniker": "C:\\Users\\Pico\\Desktop\\curso\\Estrutura de Decisao Condicional\\if else example\\Operador Ternario\\Operador Ternario Exemplo\\Operador Ternario Exemplo\\Ternario.cpp",
+              "RelativeDocumentMoniker": "Operador Ternario Exemplo\\Ternario.cpp",
+              "ToolTip": "C:\\Users\\Pico\\Desktop\\curso\\Estrutura de Decisao Condicional\\if else example\\Operador Ternario\\Operador Ternario Exemplo\\Operador Ternario Exemplo\\Ternario.cpp",
+              "RelativeToolTip": "Operador Ternario Exemplo\\Ternario.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-25T23:11:22.381Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
