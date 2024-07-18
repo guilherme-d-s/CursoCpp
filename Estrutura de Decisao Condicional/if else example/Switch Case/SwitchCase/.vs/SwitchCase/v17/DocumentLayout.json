@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pico\\Desktop\\curso\\Estrutura de Decisao Condicional\\if else example\\Switch Case\\SwitchCase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C53C6F75-D2F6-431B-ADD3-D8B097425725}|SwitchCase\\SwitchCase.vcxproj|C:\\Users\\Pico\\Desktop\\curso\\Estrutura de Decisao Condicional\\if else example\\Switch Case\\SwitchCase\\SwitchCase\\switchexample.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C53C6F75-D2F6-431B-ADD3-D8B097425725}|SwitchCase\\SwitchCase.vcxproj|solutionrelative:SwitchCase\\switchexample.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pico\\Desktop\\curso\\Estrutura de Decisao Condicional\\if else example\\Operador Ternario\\Operador Ternario Exemplo\\Operador Ternario Exemplo\\Ternario.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ternario.cpp",
+              "DocumentMoniker": "C:\\Users\\Pico\\Desktop\\curso\\Estrutura de Decisao Condicional\\if else example\\Operador Ternario\\Operador Ternario Exemplo\\Operador Ternario Exemplo\\Ternario.cpp",
+              "RelativeDocumentMoniker": "..\\..\\Operador Ternario\\Operador Ternario Exemplo\\Operador Ternario Exemplo\\Ternario.cpp",
+              "ToolTip": "C:\\Users\\Pico\\Desktop\\curso\\Estrutura de Decisao Condicional\\if else example\\Operador Ternario\\Operador Ternario Exemplo\\Operador Ternario Exemplo\\Ternario.cpp",
+              "RelativeToolTip": "..\\..\\Operador Ternario\\Operador Ternario Exemplo\\Operador Ternario Exemplo\\Ternario.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-18T22:34:59.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "switchexample.cpp",
+              "DocumentMoniker": "C:\\Users\\Pico\\Desktop\\curso\\Estrutura de Decisao Condicional\\if else example\\Switch Case\\SwitchCase\\SwitchCase\\switchexample.cpp",
+              "RelativeDocumentMoniker": "SwitchCase\\switchexample.cpp",
+              "ToolTip": "C:\\Users\\Pico\\Desktop\\curso\\Estrutura de Decisao Condicional\\if else example\\Switch Case\\SwitchCase\\SwitchCase\\switchexample.cpp",
+              "RelativeToolTip": "SwitchCase\\switchexample.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-18T22:32:05.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
