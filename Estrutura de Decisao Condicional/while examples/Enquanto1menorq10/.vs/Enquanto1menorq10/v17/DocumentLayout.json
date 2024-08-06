@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pico\\Desktop\\curso\\Estrutura de Decisao Condicional\\while examples\\Enquanto1menorq10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BECFD414-E196-4952-A321-33024EBDFF56}|Enquanto1menorq10\\Enquanto1menorq10.vcxproj|C:\\Users\\Pico\\Desktop\\curso\\Estrutura de Decisao Condicional\\while examples\\Enquanto1menorq10\\Enquanto1menorq10\\while10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BECFD414-E196-4952-A321-33024EBDFF56}|Enquanto1menorq10\\Enquanto1menorq10.vcxproj|solutionrelative:Enquanto1menorq10\\while10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "while10.cpp",
+              "DocumentMoniker": "C:\\Users\\Pico\\Desktop\\curso\\Estrutura de Decisao Condicional\\while examples\\Enquanto1menorq10\\Enquanto1menorq10\\while10.cpp",
+              "RelativeDocumentMoniker": "Enquanto1menorq10\\while10.cpp",
+              "ToolTip": "C:\\Users\\Pico\\Desktop\\curso\\Estrutura de Decisao Condicional\\while examples\\Enquanto1menorq10\\Enquanto1menorq10\\while10.cpp",
+              "RelativeToolTip": "Enquanto1menorq10\\while10.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-06T22:56:44.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
