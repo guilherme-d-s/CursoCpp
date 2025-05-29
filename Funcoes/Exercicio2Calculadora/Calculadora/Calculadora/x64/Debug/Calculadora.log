@@ -1,0 +1,10 @@
+﻿  Calculator.cpp
+C:\Users\gdsz_\OneDrive\Área de Trabalho\curso\Funcoes\Exercicio2Calculadora\Calculadora\Calculadora\Calculator.cpp(20,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gdsz_\OneDrive\Área de Trabalho\curso\Funcoes\Exercicio2Calculadora\Calculadora\Calculadora\Calculator.cpp(20,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gdsz_\OneDrive\Área de Trabalho\curso\Funcoes\Exercicio2Calculadora\Calculadora\Calculadora\Calculator.cpp(21,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gdsz_\OneDrive\Área de Trabalho\curso\Funcoes\Exercicio2Calculadora\Calculadora\Calculadora\Calculator.cpp(21,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gdsz_\OneDrive\Área de Trabalho\curso\Funcoes\Exercicio2Calculadora\Calculadora\Calculadora\Calculator.cpp(22,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gdsz_\OneDrive\Área de Trabalho\curso\Funcoes\Exercicio2Calculadora\Calculadora\Calculadora\Calculator.cpp(22,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gdsz_\OneDrive\Área de Trabalho\curso\Funcoes\Exercicio2Calculadora\Calculadora\Calculadora\Calculator.cpp(23,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gdsz_\OneDrive\Área de Trabalho\curso\Funcoes\Exercicio2Calculadora\Calculadora\Calculadora\Calculator.cpp(23,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Calculadora.vcxproj -> C:\Users\gdsz_\OneDrive\Área de Trabalho\curso\Funcoes\Exercicio2Calculadora\Calculadora\x64\Debug\Calculadora.exe
