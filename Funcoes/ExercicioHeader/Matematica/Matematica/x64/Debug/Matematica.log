@@ -1,0 +1,4 @@
+﻿  Exercicio.cpp
+C:\Users\gdsz_\OneDrive\Área de Trabalho\curso\Funcoes\ExercicioHeader\Matematica\Matematica\Exercicio.cpp(16,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\gdsz_\OneDrive\Área de Trabalho\curso\Funcoes\ExercicioHeader\Matematica\Matematica\Exercicio.cpp(16,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Matematica.vcxproj -> C:\Users\gdsz_\OneDrive\Área de Trabalho\curso\Funcoes\ExercicioHeader\Matematica\x64\Debug\Matematica.exe
