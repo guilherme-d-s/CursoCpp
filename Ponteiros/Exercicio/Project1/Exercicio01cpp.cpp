@@ -11,7 +11,7 @@ int main() {
 
 	std::cout << "\nValor de Numero: " << *Ponteiro << "\n";
 	std::cout << "\nEndereço de Numero " << &Numero << " Endereço de Ponteiro: " << &Ponteiro << "\n";
-	std::cout << "\nValor contido dentro de Ponteiro: " << Ponteiro << "\n";
+	std::cout << "\nValor contido dentro de Ponteiro: " << *Ponteiro << "\n";
 	*Ponteiro += 200;
 	std::cout << "\nValor de Número após somar 200: " << *OutroPtr << std::endl;
 
