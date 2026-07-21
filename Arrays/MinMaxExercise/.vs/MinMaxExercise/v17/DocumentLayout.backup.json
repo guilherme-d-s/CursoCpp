@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gdsz_\\OneDrive\\\u00C1rea de Trabalho\\curso\\Arrays\\MinMaxExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80F9884A-B940-48AB-A92E-5D3323E73BE9}|MinMaxExercise\\MinMaxExercise.vcxproj|C:\\Users\\gdsz_\\OneDrive\\\u00C1rea de Trabalho\\curso\\Arrays\\MinMaxExercise\\MinMaxExercise\\Exercise.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80F9884A-B940-48AB-A92E-5D3323E73BE9}|MinMaxExercise\\MinMaxExercise.vcxproj|solutionrelative:MinMaxExercise\\Exercise.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercise.cpp",
+              "DocumentMoniker": "C:\\Users\\gdsz_\\OneDrive\\\u00C1rea de Trabalho\\curso\\Arrays\\MinMaxExercise\\MinMaxExercise\\Exercise.cpp",
+              "RelativeDocumentMoniker": "MinMaxExercise\\Exercise.cpp",
+              "ToolTip": "C:\\Users\\gdsz_\\OneDrive\\\u00C1rea de Trabalho\\curso\\Arrays\\MinMaxExercise\\MinMaxExercise\\Exercise.cpp*",
+              "RelativeToolTip": "MinMaxExercise\\Exercise.cpp*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-21T21:58:48.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
