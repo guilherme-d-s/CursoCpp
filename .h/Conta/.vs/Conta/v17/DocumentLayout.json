@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\gdsz_\\OneDrive\\\u00C1rea de Trabalho\\curso\\.h\\Conta\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C3C1687F-2D9B-469C-9C1F-B8B9C4BB22D0}|Conta.vcxproj|C:\\Users\\gdsz_\\OneDrive\\\u00C1rea de Trabalho\\curso\\.h\\Conta\\Conta.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C3C1687F-2D9B-469C-9C1F-B8B9C4BB22D0}|Conta.vcxproj|solutionrelative:Conta.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C3C1687F-2D9B-469C-9C1F-B8B9C4BB22D0}|Conta.vcxproj|C:\\Users\\gdsz_\\OneDrive\\\u00C1rea de Trabalho\\curso\\.h\\Conta\\Banco.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3C1687F-2D9B-469C-9C1F-B8B9C4BB22D0}|Conta.vcxproj|solutionrelative:Banco.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C3C1687F-2D9B-469C-9C1F-B8B9C4BB22D0}|Conta.vcxproj|C:\\Users\\gdsz_\\OneDrive\\\u00C1rea de Trabalho\\curso\\.h\\Conta\\Conta.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C3C1687F-2D9B-469C-9C1F-B8B9C4BB22D0}|Conta.vcxproj|solutionrelative:Conta.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C1687F-2D9B-469C-9C1F-B8B9C4BB22D0}|Conta.vcxproj|C:\\Users\\gdsz_\\OneDrive\\\u00C1rea de Trabalho\\curso\\.h\\Conta\\Conta.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3C1687F-2D9B-469C-9C1F-B8B9C4BB22D0}|Conta.vcxproj|solutionrelative:Conta.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Banco.cpp",
+              "DocumentMoniker": "C:\\Users\\gdsz_\\OneDrive\\\u00C1rea de Trabalho\\curso\\.h\\Conta\\Banco.cpp",
+              "RelativeDocumentMoniker": "Banco.cpp",
+              "ToolTip": "C:\\Users\\gdsz_\\OneDrive\\\u00C1rea de Trabalho\\curso\\.h\\Conta\\Banco.cpp",
+              "RelativeToolTip": "Banco.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-19T21:56:06.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Conta.cpp",
               "DocumentMoniker": "C:\\Users\\gdsz_\\OneDrive\\\u00C1rea de Trabalho\\curso\\.h\\Conta\\Conta.cpp",
               "RelativeDocumentMoniker": "Conta.cpp",
               "ToolTip": "C:\\Users\\gdsz_\\OneDrive\\\u00C1rea de Trabalho\\curso\\.h\\Conta\\Conta.cpp",
               "RelativeToolTip": "Conta.cpp",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-08-17T21:47:35.074Z",
               "EditorCaption": ""
@@ -41,7 +58,7 @@
               "RelativeDocumentMoniker": "Conta.h",
               "ToolTip": "C:\\Users\\gdsz_\\OneDrive\\\u00C1rea de Trabalho\\curso\\.h\\Conta\\Conta.h",
               "RelativeToolTip": "Conta.h",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-08-17T21:35:31.301Z",
               "EditorCaption": ""

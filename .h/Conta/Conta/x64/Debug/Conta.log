@@ -1,7 +1,4 @@
-﻿  Conta.cpp
-C:\Users\gdsz_\OneDrive\Área de Trabalho\curso\.h\Conta\Conta.cpp(13,37): error C3867: 'Conta::ConsultarSaldo': non-standard syntax; use '&' to create a pointer to member
-      C:\Users\gdsz_\OneDrive\Área de Trabalho\curso\.h\Conta\Conta.cpp(13,37):
-      the template instantiation context (the oldest one first) is
-          C:\Users\gdsz_\OneDrive\Área de Trabalho\curso\.h\Conta\Conta.cpp(13,13):
-          see reference to function template instantiation 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)' being compiled
-  
+﻿  Banco.cpp
+  Conta.vcxproj -> C:\Users\gdsz_\OneDrive\Área de Trabalho\curso\.h\Conta\x64\Debug\Conta.exe
+  'pwsh.exe' não é reconhecido como um comando interno
+  ou externo, um programa operável ou um arquivo em lotes.

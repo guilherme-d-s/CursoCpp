@@ -8,12 +8,12 @@ private:
 	int Agencia;
 	int Numconta;
 	std::string Titular;
-	double Saldo;
+	double Saldo{ 0.0 };
 
 public:
 	bool Sacar(double Valor);
 	void Depositar(double Valor);
-	void Transferir(Conta Destino, double Valor);
+	void Transferir(Conta &Destino, double Valor);
 	double ConsultarSaldo();
 	std::string GetBanco();
 	int GetAgencia();
@@ -22,5 +22,5 @@ public:
 	void SetBanco(std::string Banco);
 	void SetAgencia(int Agencia);
 	void SetTitular(std::string Titular);
-
+	void SetNumconta(int Numconta);
 };

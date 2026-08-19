@@ -23,5 +23,8 @@
     <ClCompile Include="Conta.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Banco.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
